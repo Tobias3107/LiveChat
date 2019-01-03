@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "LiveChatServer/1.0.0": {
+        "dependencies": {
+          "websocket-sharp": "1.0.2.14480"
+        },
+        "runtime": {
+          "LiveChatServer.dll": {}
+        }
+      },
+      "websocket-sharp/1.0.2.14480": {
+        "runtime": {
+          "websocket-sharp.dll": {
+            "assemblyVersion": "1.0.2.14480",
+            "fileVersion": "1.0.2.14480"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LiveChatServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "websocket-sharp/1.0.2.14480": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

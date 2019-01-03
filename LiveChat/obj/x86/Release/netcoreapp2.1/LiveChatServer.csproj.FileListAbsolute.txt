@@ -1,0 +1,10 @@
+G:\Minecraft-Programmierung\Workspace\VS\C#\LiveChat\LiveChat\bin\x86\Release\netcoreapp2.1\LiveChatServer.deps.json
+G:\Minecraft-Programmierung\Workspace\VS\C#\LiveChat\LiveChat\bin\x86\Release\netcoreapp2.1\LiveChatServer.runtimeconfig.json
+G:\Minecraft-Programmierung\Workspace\VS\C#\LiveChat\LiveChat\bin\x86\Release\netcoreapp2.1\LiveChatServer.runtimeconfig.dev.json
+G:\Minecraft-Programmierung\Workspace\VS\C#\LiveChat\LiveChat\bin\x86\Release\netcoreapp2.1\LiveChatServer.dll
+G:\Minecraft-Programmierung\Workspace\VS\C#\LiveChat\LiveChat\bin\x86\Release\netcoreapp2.1\LiveChatServer.pdb
+G:\Minecraft-Programmierung\Workspace\VS\C#\LiveChat\LiveChat\obj\x86\Release\netcoreapp2.1\LiveChatServer.csproj.CoreCompileInputs.cache
+G:\Minecraft-Programmierung\Workspace\VS\C#\LiveChat\LiveChat\obj\x86\Release\netcoreapp2.1\LiveChatServer.AssemblyInfoInputs.cache
+G:\Minecraft-Programmierung\Workspace\VS\C#\LiveChat\LiveChat\obj\x86\Release\netcoreapp2.1\LiveChatServer.AssemblyInfo.cs
+G:\Minecraft-Programmierung\Workspace\VS\C#\LiveChat\LiveChat\obj\x86\Release\netcoreapp2.1\LiveChatServer.dll
+G:\Minecraft-Programmierung\Workspace\VS\C#\LiveChat\LiveChat\obj\x86\Release\netcoreapp2.1\LiveChatServer.pdb
